@@ -1,0 +1,4 @@
+flask
+tvdatafeed
+ta
+gunicorn
