@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # ===== تسجيل دخول في TradingView =====
 # ⚠️ استبدل بريدك وكلمة السر لحساب TradingView
-tv = TvDatafeed(username='بريدك', password='باسوردك')
+tv = TvDatafeed(username='hudebgfx', password='Quran552005@Hussein')
 
 # ===== الأزواج =====
 pairs = {
